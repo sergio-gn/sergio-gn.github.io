@@ -10,7 +10,7 @@ Lazy loading is a technique that improves the performance and user experience of
 
 There are two main ways to implement lazy loading on web pages: using native HTML attributes or using JavaScript libraries.
 
-## Native Lazy Loading
+### Native Lazy Loading
 
 Native lazy loading is a new feature that allows developers to use the loading attribute on img and iframe elements to indicate how they should be loaded. The loading attribute can have one of these values:
 

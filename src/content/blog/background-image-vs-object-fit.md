@@ -5,7 +5,7 @@ pubDate: "Sep 16 2023"
 heroImage: "/object-fit-vs-background-image.webp"
 ---
 
-# Object fit vs background image: which one should you use for your website?
+### Object fit vs background image: which one should you use for your website?
 
 If you are a web developer, you might have faced the challenge of displaying images on your website in a way that looks good and performs well. You might have used the CSS properties background-image and background-size to set an image as the background of an element and scale it to cover or contain the element’s area. However, there are some drawbacks to this approach, such as:
 
